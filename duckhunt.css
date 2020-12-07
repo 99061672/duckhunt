@@ -1,0 +1,20 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+ 	background-image: url("stage.png");
+}
+
+#duck {
+	position: absolute; 
+	height: 100px;
+	width: 100px;
+	bottom: 50%;
+	right: 50%;
+}
+
+.h2{
+	float: top left;
+	color: red;
+}
